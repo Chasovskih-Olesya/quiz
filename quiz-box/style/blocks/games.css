@@ -1,0 +1,94 @@
+.games {
+    margin-top: 117px;
+}
+
+.title {
+    font-size: 36px;
+    line-height: 42px;
+    font-weight: 700;
+    margin-bottom: 46px;
+}
+
+
+.games__item {
+    display: inline-block;
+    width: 555px;
+    vertical-align: top;
+    position: relative;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.games__content-img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.games__content {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding-top: 10px;
+    padding-left: 30px;
+    min-height: 140px;
+}
+
+.games__date {
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 15px;
+}
+
+.games__title {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.games__lead {
+    font-size: 16px;
+    line-height: 21px;
+    padding-right: 75px;
+}
+
+.paginator {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.paginator__display, .paginator__list {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 52px;
+}
+
+.paginator__display {
+    margin-right: 26px;
+    word-spacing: 5px;
+}
+
+.paginator__item {
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 700;
+}
+
+.paginator__number {
+    display: block;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    position: relative;
+    text-decoration: none;
+    font-weight: 700;
+    line-height: 32px;
+}
+
+.paginator__number:hover {
+    background: #8F00FF;
+}

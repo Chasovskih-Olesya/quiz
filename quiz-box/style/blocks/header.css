@@ -1,0 +1,18 @@
+.header {
+    margin-top: 0px;
+    height: 77px;
+}
+
+.logo__link {
+    margin-top: 30px;
+    font-size: 36px;
+    line-height: 49px;
+    font-weight: 700;
+    color: #000;
+    background: linear-gradient(87.62deg, #8F00FF -2.44%, #00A3FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-osx-background-clip: text;
+    -moz-osx-text-fill-color: transparent;
+    position: absolute;
+}

@@ -1,0 +1,45 @@
+.about__img {
+    margin-top: 148px;
+    margin-left: -3px;
+    display: block;
+    position: relative;
+}
+
+.about__content {
+    background: linear-gradient(71.43deg, #8F00FF 0%, #148CFF 100%), linear-gradient(0deg, #212121, #212121);
+    padding: 70px 81px;
+    display: absolute;
+    margin-top: 11px;
+    width: 785px;
+    height: 455px;
+    left: 730px;
+    top: 2272px;
+    position: absolute;
+}
+
+.about__text {
+    font-size: 16px;
+    line-height: 27px;
+    margin-bottom: 39px;
+    padding-right: 100px;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+
+.about__button {
+    position: absolute;
+    background-color: none;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    width: 168px;
+    height: 55px;
+    padding: 18px 40px;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-top: 0px;
+}
